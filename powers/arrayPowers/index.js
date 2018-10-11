@@ -51,8 +51,8 @@
         else if (!pos)
             return Math.max(...this);
         else {
-            if (this[length - pos])
-                return this.sort()[length - pos];
+            if (this[this.length - pos])
+                return this.sort()[this.length - pos];
             else
                 return null;
         }

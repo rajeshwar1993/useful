@@ -146,7 +146,7 @@ describe('Array Powers', function () {
     });
 
     it('should min whole number arrays including strings', () => {
-      [-1, '2', '3.4'].min(1, true).should.to.equal(-1);
+      [-1, '2', '3.4'].min().should.to.equal(-1);
     });
 
     it('should find min of fractions', () => {
@@ -158,7 +158,7 @@ describe('Array Powers', function () {
     });
 
     it('should find min of single length array with wrong position', () => {
-      [4].min(4).should.be.equal(null);
+      expect([4].min(4)).to.be.null;
     });
 
     it('should find min of array with position', () => {
@@ -184,7 +184,7 @@ describe('Array Powers', function () {
     });
 
     it('should return the member value for a one member array when given as string', () => {
-      ['1'].max(1, true).should.equal(1);
+      ['1'].max().should.equal(1);
     });
 
     it('should return the max of the array', function () {
@@ -196,7 +196,7 @@ describe('Array Powers', function () {
     });
 
     it('should max whole number arrays including strings', () => {
-      [-1, '2', '3.4'].max(1, true).should.to.equal(3.4);
+      [-1, '2', '3.4'].max().should.to.equal(3.4);
     });
 
     it('should find max of  fractions', () => {
@@ -208,11 +208,11 @@ describe('Array Powers', function () {
     });
 
     it('should find max of single length array with wrong position', () => {
-      [4].max(4).should.be.equal(null);
+      expect([4].max(4)).to.be.null;
     });
 
     it('should find max of array with position', () => {
-      [4, 40, 43, 23, 65, 3].max(4).should.be.equal(23);
+      [4, 40, 43, 23, 65, 3].max(3).should.be.equal(40);
     });
 
 
