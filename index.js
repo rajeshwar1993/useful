@@ -1,0 +1,1 @@
+var array = require("./powers/arrayPowers/index.js");
