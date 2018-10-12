@@ -1,0 +1,11 @@
+
+Array Powers:
+1. sum - done
+2. multiply - done
+3. min - done
+4. max - done
+5. frequency
+6. LCM
+7. HCF
+
+
