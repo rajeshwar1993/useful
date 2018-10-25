@@ -4,8 +4,8 @@ Array Powers:
 2. multiply - done
 3. min - done
 4. max - done
-5. frequency
-6. LCM
-7. HCF
+5. frequency - done
+6. LCM - todo
+7. GCD - todo
 
 

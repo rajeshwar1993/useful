@@ -58,11 +58,53 @@
         }
     }
 
+    //to find frequency of elements of array
+    var frequency = function () {
+        if (this.length === 0)
+            return {};
+        else {
+            return this.reduce((obj, item) => {
+                if (obj[item]) {
+                    obj[item] += 1;
+                }
+                else {
+                    obj[item] = 1;
+                }
+                return obj;
+            }, {})
+        }
+    }
+
+
+    //to find gcd of elements of array
+    var gcdOfTwo = function (a, b) {
+        if (b == 0)
+            return a;
+        return gcdOfTwo(b, a % b);
+    }
+
+    var gcd = function () {
+        if (this.length === 0)
+            return 0;
+
+        else if (!this.every((i) => typeof i === 'number'))
+            return 0;
+
+        else {
+            var gcd = 0;
+            this.forEach((i) => {
+                gcd = gcdOfTwo(gcd, i);
+            })
+            return gcd;
+        }
+    }
+
 
     Array.prototype.sum = sum;
     Array.prototype.multiply = multiply;
     Array.prototype.min = min;
     Array.prototype.max = max;
-
+    Array.prototype.frequency = frequency;
+    Array.prototype.gcd = gcd;
 
 } ())

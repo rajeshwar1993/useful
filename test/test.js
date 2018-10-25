@@ -30,6 +30,14 @@ describe('Array Powers', function () {
       expect(typeof [].max).to.equal('function');
     });
 
+    it('frequency should be a function', () => {
+      expect(typeof [].frequency).to.equal('function');
+    });
+
+    it('frequency should be a function', () => {
+      expect(typeof [].gcd).to.equal('function');
+    });
+
 
   });
 
@@ -219,5 +227,85 @@ describe('Array Powers', function () {
   });
 
 
+  //************************************************************************************************
+
+
+  //************************************************************************************************
+
+  //TEST for function: FREQUENCY()
+
+  describe('FREQUENCY Function Tests', function () {
+
+    it('should return {} for a 0 length input array', function () {
+      expect([].frequency()).to.eql({});
+    });
+
+    it('should return obj with one value for a one member array', () => {
+      expect([4].frequency()).to.eql({ '4': 1 });
+    });
+
+    it('should return obj with one value for a one member array when given as string', () => {
+      expect(['1'].frequency()).to.eql({ '1': 1 });
+    });
+
+    it('should return frequency obj for array with -ve values', function () {
+      expect([4, -3, -3].frequency()).to.eql({ '4': 1, '-3': 2 });
+    });
+
+    it('should return frequency obj for number arrays including strings', () => {
+      expect([-1, '2', '3.4'].frequency()).to.eql({ '-1': 1, '3.4': 1, '2': 1 });
+    });
+
+    it('should find frequency of element with fractions', () => {
+      expect([2.2, 3, 6.6].frequency()).to.eql({ '6.6': 1, '2.2': 1, '3': 1 });
+    });
+
+    it('should find frequency of element array with spaces and strings', () => {
+      expect(['a', 'a', 'a a', '4 3'].frequency()).to.eql({ 'a': 2, 'a a': 1, '4 3': 1 });
+    });
+
+  });
+
+
+  //************************************************************************************************
+
+   //************************************************************************************************
+
+  //TEST for function: FREQUENCY()
+
+  describe('GCD Function Tests', function () {
+
+    it('should return 0 for a 0 length input array', function () {
+      expect([].gcd()).to.equal(0);
+    });
+
+    it('should return self for one value for a one member array', () => {
+      expect([4].gcd()).to.equal(4);
+    });
+
+    it('should return 0 with one value for a one member array when given as string', () => {
+      expect(['1'].gcd()).to.equal(0);
+    });
+
+    it('should return 1 for array with -ve values', function () {
+      expect([4, -3, -3].gcd()).to.equal(1);
+    });
+
+    it('should return gcd = 0 for number arrays including strings', () => {
+      expect([-1, '2', '3.4'].gcd()).to.equal(0);
+    });
+
+    it('should f return gcd = 0 for element array with spaces and strings', () => {
+      expect(['a', 'a', 'a a', '4 3'].gcd()).to.equal(0);
+    });
+
+    it('should find gcd of element array ', () => {
+      expect([24,8,6,12].gcd()).to.equal(2);
+    });
+
+  });
+
+
+  //************************************************************************************************
 
 });
