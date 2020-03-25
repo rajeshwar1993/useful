@@ -32,7 +32,47 @@ class Heap {
     }
   }
 
-  extract() {}
+  extract() {
+    let top = this.heap[0];
+    let end = this.heap.pop();
+    if (this.heap.length === 0) return top;
+    this.heap[0] = end;
+
+    let i = 0;
+    let len = this.heap.length;
+
+    while (true) {
+      let el = this.heap[i];
+      let left = 2 * i + 1;
+      let right = 2 * i + 2;
+      let leftEl, rightEl;
+      let swap = null;
+
+      if (left < len) {
+        leftEl = this.heap[left];
+        if (this.compare(el, leftEl) === -1) {
+          swap = left;
+        }
+      }
+
+      if (right < len) {
+        rightEl = this.heap[right];
+        if (
+          (swap === null && this.compare(el, rightEl) === -1) ||
+          (swap !== null && this.compare(rightEl, leftEl) === -1)
+        ) {
+          swap = right;
+        }
+      }
+
+      if (swap === null) break;
+      this.heap[i] = this.heap[swap];
+      this.heap[swap] = el;
+      i = swap;
+    }
+
+    return top;
+  }
 
   getHeap() {
     return [...this.heap];
