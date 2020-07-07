@@ -11,7 +11,7 @@
   "dependencies": {
     "chai": "4.2.0",
     "mocha": "7.1.1",
-    "npm": "6.14.3"
+    "npm": "6.14.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
