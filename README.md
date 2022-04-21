@@ -24,7 +24,7 @@ These questions are intended for those who are preparing for Google.
 | 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
 | 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
 | 20 |	Word Search	| [Link](	https://leetcode.com/problems/word-search	) | PENDING | 	ArrayBacktracking
-| 21 |	Combination Sum III	| [Link](	https://leetcode.com/problems/combination-sum-iii	) | PENDING | 	ArrayBacktracking
+| 21 |	Combination Sum III	| [Link](	https://leetcode.com/problems/combination-sum-iii	) | DONE | 	ArrayBacktracking
 | 22 |	Subsets	| [Link](	https://leetcode.com/problems/subsets	) | PENDING | 	ArrayBacktrackingBit Manipulation
 | 23 |	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | PENDING | 	Array Binary Search
 | 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | PENDING | 	Array Binary Search
