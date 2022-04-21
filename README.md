@@ -15,7 +15,7 @@ These questions are intended for those who are preparing for Google.
 | 9 |	Add to Array-Form of Integer	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | PENDING | 	Array
 | 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | PENDING | 	Array
 | 11 |	Plus One	| [Link](	https://leetcode.com/problems/plus-one	) | DONE | 	Array
-| 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | PENDING | 	Array
+| 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | DONE | 	Array
 | 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | PENDING | 	Array
 | 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | PENDING | 	Array
 | 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | PENDING | 	Array
