@@ -20,7 +20,7 @@ These questions are intended for those who are preparing for Google.
 | 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | PENDING | 	Array
 | 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | PENDING | 	Array
 | 16 |	Pascal's Triangle	| [Link](	https://leetcode.com/problems/pascals-triangle	) | PENDING | 	Array
-| 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | PENDING | 	Array
+| 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | DONE | 	Array
 | 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
 | 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
 | 20 |	Word Search	| [Link](	https://leetcode.com/problems/word-search	) | PENDING | 	ArrayBacktracking
