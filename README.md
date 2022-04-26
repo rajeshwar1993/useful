@@ -101,13 +101,13 @@ These questions are intended for those who are preparing for Google.
 | 95 |	Single Number II	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
 | 96 |	Swap Adjacent in LR String	| [Link](	https://leetcode.com/problems/swap-adjacent-in-lr-string	) | PENDING | 	Brainteaser
 | 97 |	Shortest Path in a Grid with Obstacles Elimination	| [Link](	https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination	) | PENDING | 	Breadth-first Search
-| 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | DONE | 	Breadth-first Search
+| 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | PENDING | 	Breadth-first Search
 | 99 |	Jump Game IV	| [Link](	https://leetcode.com/problems/jump-game-iv	) | PENDING | 	Breadth-first Search
 | 100 |	Open the Lock	| [Link](	https://leetcode.com/problems/open-the-lock	) | PENDING | 	Breadth-first Search
 | 101 |	Word Ladder	| [Link](	https://leetcode.com/problems/word-ladder	) | PENDING | 	Breadth-first Search
 | 102 |	Minimum Knight Moves	| [Link](	https://leetcode.com/problems/minimum-knight-moves	) | PENDING | 	Breadth-first Search
 | 103 |	Bus Routes	| [Link](	https://leetcode.com/problems/bus-routes	) | PENDING | 	Breadth-first Search
-| 104 |	Walls and Gates	| [Link](	https://leetcode.com/problems/walls-and-gates	) | PENDING | 	Breadth-first Search
+| 104 |	Walls and Gates	| [Link](	https://leetcode.com/problems/walls-and-gates	) | DONE | 	Breadth-first Search
 | 105 |	Shortest Distance from All Buildings	| [Link](	https://leetcode.com/problems/shortest-distance-from-all-buildings	) | PENDING | 	Breadth-first Search
 | 106 |	As Far from Land as Possible	| [Link](	https://leetcode.com/problems/as-far-from-land-as-possible	) | PENDING | 	Breadth-first SearchGraph
 | 107 |	Nth Highest Salary	| [Link](	https://leetcode.com/problems/nth-highest-salary	) | PENDING | 	Database
