@@ -299,7 +299,7 @@ These questions are intended for those who are preparing for Google.
 | 293 |	Add Strings	| [Link](	https://leetcode.com/problems/add-strings	) | PENDING | 	String
 | 294 |	Longest Common Prefix	| [Link](	https://leetcode.com/problems/longest-common-prefix	) | PENDING | 	String
 | 295 |	Length of Last Word	| [Link](	https://leetcode.com/problems/length-of-last-word	) | PENDING | 	String
-| 296 |	Letter Combinations of a Phone Number	| [Link](	https://leetcode.com/problems/letter-combinations-of-a-phone-number	) | PENDING | 	StringBacktracking
+| 296 |	Letter Combinations of a Phone Number	| [Link](	https://leetcode.com/problems/letter-combinations-of-a-phone-number	) | DONE | 	StringBacktracking
 | 297 |	Generate Parentheses	| [Link](	https://leetcode.com/problems/generate-parentheses	) | PENDING | 	StringBacktracking
 | 298 |	Edit Distance	| [Link](	https://leetcode.com/problems/edit-distance	) | PENDING | 	StringDynamic Programming
 | 299 |	Longest Palindromic Substring	| [Link](	https://leetcode.com/problems/longest-palindromic-substring	) | DONE | 	StringDynamic Programming
