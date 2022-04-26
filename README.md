@@ -101,7 +101,7 @@ These questions are intended for those who are preparing for Google.
 | 95 |	Single Number II	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
 | 96 |	Swap Adjacent in LR String	| [Link](	https://leetcode.com/problems/swap-adjacent-in-lr-string	) | PENDING | 	Brainteaser
 | 97 |	Shortest Path in a Grid with Obstacles Elimination	| [Link](	https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination	) | PENDING | 	Breadth-first Search
-| 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | PENDING | 	Breadth-first Search
+| 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | DONE | 	Breadth-first Search
 | 99 |	Jump Game IV	| [Link](	https://leetcode.com/problems/jump-game-iv	) | PENDING | 	Breadth-first Search
 | 100 |	Open the Lock	| [Link](	https://leetcode.com/problems/open-the-lock	) | PENDING | 	Breadth-first Search
 | 101 |	Word Ladder	| [Link](	https://leetcode.com/problems/word-ladder	) | PENDING | 	Breadth-first Search
@@ -201,7 +201,7 @@ These questions are intended for those who are preparing for Google.
 | 195 |	Sudoku Solver	| [Link](	https://leetcode.com/problems/sudoku-solver	) | PENDING | 	Hash TableBacktracking
 | 196 |	Time Based Key-Value Store	| [Link](	https://leetcode.com/problems/time-based-key-value-store	) | PENDING | 	Hash TableBinary Search
 | 197 |	4Sum II	| [Link](	https://leetcode.com/problems/4sum-ii	) | PENDING | 	Hash TableBinary Search
-| 198 |	Find the Difference	| [Link](	https://leetcode.com/problems/find-the-difference	) | PENDING | 	Hash TableBit Manipulation
+| 198 |	Find the Difference	| [Link](	https://leetcode.com/problems/find-the-difference	) | DONE | 	Hash TableBit Manipulation
 | 199 |	Employee Importance	| [Link](	https://leetcode.com/problems/employee-importance	) | PENDING | 	Hash TableDepth-first SearchBreadth-first Search
 | 200 |	Logger Rate Limiter	| [Link](	https://leetcode.com/problems/logger-rate-limiter	) | PENDING | 	Hash TableDesign
 | 201 |	Design HashMap	| [Link](	https://leetcode.com/problems/design-hashmap	) | PENDING | 	Hash TableDesign
