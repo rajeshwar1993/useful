@@ -194,7 +194,7 @@ These questions are intended for those who are preparing for Google.
 | 188 |	Campus Bikes	| [Link](	https://leetcode.com/problems/campus-bikes	) | PENDING | 	GreedySort
 | 189 |	Bulls and Cows	| [Link](	https://leetcode.com/problems/bulls-and-cows	) | PENDING | 	Hash Table
 | 190 |	Valid Sudoku	| [Link](	https://leetcode.com/problems/valid-sudoku	) | PENDING | 	Hash Table
-| 191 |	Isomorphic Strings	| [Link](	https://leetcode.com/problems/isomorphic-strings	) | PENDING | 	Hash Table
+| 191 |	Isomorphic Strings	| [Link](	https://leetcode.com/problems/isomorphic-strings	) | DONE | 	Hash Table
 | 192 |	Find All Anagrams in a String	| [Link](	https://leetcode.com/problems/find-all-anagrams-in-a-string	) | PENDING | 	Hash Table
 | 193 |	Island Perimeter	| [Link](	https://leetcode.com/problems/island-perimeter	) | PENDING | 	Hash Table
 | 194 |	Jewels and Stones	| [Link](	https://leetcode.com/problems/jewels-and-stones	) | PENDING | 	Hash Table
