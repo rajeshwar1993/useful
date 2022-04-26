@@ -302,7 +302,7 @@ These questions are intended for those who are preparing for Google.
 | 296 |	Letter Combinations of a Phone Number	| [Link](	https://leetcode.com/problems/letter-combinations-of-a-phone-number	) | PENDING | 	StringBacktracking
 | 297 |	Generate Parentheses	| [Link](	https://leetcode.com/problems/generate-parentheses	) | PENDING | 	StringBacktracking
 | 298 |	Edit Distance	| [Link](	https://leetcode.com/problems/edit-distance	) | PENDING | 	StringDynamic Programming
-| 299 |	Longest Palindromic Substring	| [Link](	https://leetcode.com/problems/longest-palindromic-substring	) | PENDING | 	StringDynamic Programming
+| 299 |	Longest Palindromic Substring	| [Link](	https://leetcode.com/problems/longest-palindromic-substring	) | DONE | 	StringDynamic Programming
 | 300 |	Palindromic Substrings	| [Link](	https://leetcode.com/problems/palindromic-substrings	) | PENDING | 	StringDynamic Programming
 | 301 |	Decode Ways	| [Link](	https://leetcode.com/problems/decode-ways	) | PENDING | 	StringDynamic Programming
 | 302 |	Regular Expression Matching	| [Link](	https://leetcode.com/problems/regular-expression-matching	) | PENDING | 	StringDynamic ProgrammingBacktracking
