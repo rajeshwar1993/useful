@@ -112,7 +112,7 @@ These questions are intended for those who are preparing for Google.
 | 106 |	As Far from Land as Possible	| [Link](	https://leetcode.com/problems/as-far-from-land-as-possible	) | PENDING | 	Breadth-first SearchGraph
 | 107 |	Nth Highest Salary	| [Link](	https://leetcode.com/problems/nth-highest-salary	) | PENDING | 	Database
 | 108 |	Combine Two Tables	| [Link](	https://leetcode.com/problems/combine-two-tables	) | PENDING | 	Database
-| 109 |	Time Needed to Inform All Employees	| [Link](	https://leetcode.com/problems/time-needed-to-inform-all-employees	) | PENDING | 	Depth-first Search
+| 109 |	Time Needed to Inform All Employees	| [Link](	https://leetcode.com/problems/time-needed-to-inform-all-employees	) | DONE | 	Depth-first Search
 | 110 |	Robot Room Cleaner	| [Link](	https://leetcode.com/problems/robot-room-cleaner	) | PENDING | 	Depth-first Search
 | 111 |	24 Game	| [Link](	https://leetcode.com/problems/24-game	) | PENDING | 	Depth-first Search
 | 112 |	Frog Position After T Seconds	| [Link](	https://leetcode.com/problems/frog-position-after-t-seconds	) | PENDING | 	Depth-first Search
