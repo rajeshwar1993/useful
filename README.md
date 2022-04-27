@@ -233,7 +233,7 @@ These questions are intended for those who are preparing for Google.
 | 227 |	Strong Password Checker	| [Link](	https://leetcode.com/problems/strong-password-checker	) | PENDING | 	Heap
 | 228 |	Network Delay Time	| [Link](	https://leetcode.com/problems/network-delay-time	) | PENDING | 	HeapDepth-first SearchBreadth-first SearchGraph
 | 229 |	Find Median from Data Stream	| [Link](	https://leetcode.com/problems/find-median-from-data-stream	) | PENDING | 	HeapDesign
-| 230 |	Kth Largest Element in a Stream	| [Link](	https://leetcode.com/problems/kth-largest-element-in-a-stream	) | PENDING | 	HeapDesign
+| 230 |	Kth Largest Element in a Stream	| [Link](	https://leetcode.com/problems/kth-largest-element-in-a-stream	) | DONE | 	HeapDesign
 | 231 |	Split Array into Consecutive Subsequences	| [Link](	https://leetcode.com/problems/split-array-into-consecutive-subsequences	) | PENDING | 	HeapGreedy
 | 232 |	Employee Free Time	| [Link](	https://leetcode.com/problems/employee-free-time	) | PENDING | 	HeapGreedy
 | 233 |	Meeting Rooms II	| [Link](	https://leetcode.com/problems/meeting-rooms-ii	) | PENDING | 	HeapGreedySort
