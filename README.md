@@ -196,7 +196,7 @@ These questions are intended for those who are preparing for Google.
 | 190 |	Valid Sudoku	| [Link](	https://leetcode.com/problems/valid-sudoku	) | PENDING | 	Hash Table
 | 191 |	Isomorphic Strings	| [Link](	https://leetcode.com/problems/isomorphic-strings	) | DONE | 	Hash Table
 | 192 |	Find All Anagrams in a String	| [Link](	https://leetcode.com/problems/find-all-anagrams-in-a-string	) | PENDING | 	Hash Table
-| 193 |	Island Perimeter	| [Link](	https://leetcode.com/problems/island-perimeter	) | PENDING | 	Hash Table
+| 193 |	Island Perimeter	| [Link](	https://leetcode.com/problems/island-perimeter	) | DONE | 	Hash Table
 | 194 |	Jewels and Stones	| [Link](	https://leetcode.com/problems/jewels-and-stones	) | PENDING | 	Hash Table
 | 195 |	Sudoku Solver	| [Link](	https://leetcode.com/problems/sudoku-solver	) | PENDING | 	Hash TableBacktracking
 | 196 |	Time Based Key-Value Store	| [Link](	https://leetcode.com/problems/time-based-key-value-store	) | PENDING | 	Hash TableBinary Search
