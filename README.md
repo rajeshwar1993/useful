@@ -48,7 +48,7 @@ These questions are intended for those who are preparing for Google.
 | 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | PENDING | 	ArrayGreedy
 | 43 |	Minimum Domino Rotations For Equal Row	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
 | 44 |	Task Scheduler	| [Link](	https://leetcode.com/problems/task-scheduler	) | PENDING | 	ArrayGreedyQueue
-| 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | PENDING | 	ArrayHash Table
+| 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | DONE | 	ArrayHash Table
 | 46 |	Subarray Sum Equals K	| [Link](	https://leetcode.com/problems/subarray-sum-equals-k	) | PENDING | 	ArrayHash Table
 | 47 |	Contains Duplicate II	| [Link](	https://leetcode.com/problems/contains-duplicate-ii	) | PENDING | 	ArrayHash Table
 | 48 |	Insert Delete GetRandom O(1)	| [Link](	https://leetcode.com/problems/insert-delete-getrandom-o1	) | PENDING | 	ArrayHash TableDesign
