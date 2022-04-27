@@ -162,7 +162,7 @@ These questions are intended for those who are preparing for Google.
 | 156 |	Palindrome Partitioning II	| [Link](	https://leetcode.com/problems/palindrome-partitioning-ii	) | PENDING | 	Dynamic Programming
 | 157 |	Minimum Cost For Tickets	| [Link](	https://leetcode.com/problems/minimum-cost-for-tickets	) | PENDING | 	Dynamic Programming
 | 158 |	Maximal Square	| [Link](	https://leetcode.com/problems/maximal-square	) | PENDING | 	Dynamic Programming
-| 159 |	Number of Dice Rolls With Target Sum	| [Link](	https://leetcode.com/problems/number-of-dice-rolls-with-target-sum	) | PENDING | 	Dynamic Programming
+| 159 |	Number of Dice Rolls With Target Sum	| [Link](	https://leetcode.com/problems/number-of-dice-rolls-with-target-sum	) | DONE | 	Dynamic Programming
 | 160 |	Longest Common Subsequence	| [Link](	https://leetcode.com/problems/longest-common-subsequence	) | PENDING | 	Dynamic Programming
 | 161 |	Best Time to Buy and Sell Stock IV	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv	) | PENDING | 	Dynamic Programming
 | 162 |	Coin Change	| [Link](	https://leetcode.com/problems/coin-change	) | PENDING | 	Dynamic Programming
