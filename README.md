@@ -287,7 +287,7 @@ These questions are intended for those who are preparing for Google.
 | 281 |	Remove Comments	| [Link](	https://leetcode.com/problems/remove-comments	) | PENDING | 	String
 | 282 |	Longest Repeating Substring	| [Link](	https://leetcode.com/problems/longest-repeating-substring	) | PENDING | 	String
 | 283 |	Read N Characters Given Read4	| [Link](	https://leetcode.com/problems/read-n-characters-given-read4	) | PENDING | 	String
-| 284 |	Compare Version Numbers	| [Link](	https://leetcode.com/problems/compare-version-numbers	) | PENDING | 	String
+| 284 |	Compare Version Numbers	| [Link](	https://leetcode.com/problems/compare-version-numbers	) | DONE | 	String
 | 285 |	Text Justification	| [Link](	https://leetcode.com/problems/text-justification	) | PENDING | 	String
 | 286 |	Read N Characters Given Read4 II - Call multiple times	| [Link](	https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times	) | PENDING | 	String
 | 287 |	Repeated String Match	| [Link](	https://leetcode.com/problems/repeated-string-match	) | PENDING | 	String
