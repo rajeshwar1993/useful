@@ -290,7 +290,7 @@ These questions are intended for those who are preparing for Google.
 | 284 |	Compare Version Numbers	| [Link](	https://leetcode.com/problems/compare-version-numbers	) | DONE | 	String
 | 285 |	Text Justification	| [Link](	https://leetcode.com/problems/text-justification	) | PENDING | 	String
 | 286 |	Read N Characters Given Read4 II - Call multiple times	| [Link](	https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times	) | PENDING | 	String
-| 287 |	Repeated String Match	| [Link](	https://leetcode.com/problems/repeated-string-match	) | PENDING | 	String
+| 287 |	Repeated String Match	| [Link](	https://leetcode.com/problems/repeated-string-match	) | DONE | 	String
 | 288 |	Rearrange Spaces Between Words	| [Link](	https://leetcode.com/problems/rearrange-spaces-between-words	) | PENDING | 	String
 | 289 |	Shortest Palindrome	| [Link](	https://leetcode.com/problems/shortest-palindrome	) | PENDING | 	String
 | 290 |	Custom Sort String	| [Link](	https://leetcode.com/problems/custom-sort-string	) | PENDING | 	String
