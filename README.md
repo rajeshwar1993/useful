@@ -34,7 +34,7 @@ These questions are intended for those who are preparing for Google.
 | 28 |	Median of Two Sorted Arrays	| [Link](	https://leetcode.com/problems/median-of-two-sorted-arrays	) | PENDING | 	ArrayBinary SearchDivide and Conquer
 | 29 |	Max Area of Island	| [Link](	https://leetcode.com/problems/max-area-of-island	) | PENDING | 	ArrayDepth-first Search
 | 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | PENDING | 	ArrayDesign
-| 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | PENDING | 	ArrayDivide and ConquerBit Manipulation
+| 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | DONE | 	ArrayDivide and ConquerBit Manipulation
 | 32 |	Maximum Subarray	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
 | 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
