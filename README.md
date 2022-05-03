@@ -39,7 +39,7 @@ These questions are intended for those who are preparing for Google.
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
 | 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
 | 35 |	Maximum Sum of 3 Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays	) | PENDING | 	ArrayDynamic Programming
-| 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | PENDING | 	ArrayDynamic Programming
+| 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | DONE | 	ArrayDynamic Programming
 | 37 |	Best Time to Buy and Sell Stock	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
 | 38 |	Unique Paths	| [Link](	https://leetcode.com/problems/unique-paths	) | PENDING | 	ArrayDynamic Programming
 | 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
