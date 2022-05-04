@@ -66,7 +66,7 @@ These questions are intended for those who are preparing for Google.
 | 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | PENDING | 	ArrayTwo Pointers
 | 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
 | 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
-| 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | PENDING | 	ArrayTwo Pointers
+| 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | DONE | 	ArrayTwo Pointers
 | 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | PENDING | 	ArrayTwo Pointers
 | 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
 | 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
