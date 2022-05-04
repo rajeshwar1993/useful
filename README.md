@@ -223,7 +223,7 @@ These questions are intended for those who are preparing for Google.
 | 217 |	First Unique Character in a String	| [Link](	https://leetcode.com/problems/first-unique-character-in-a-string	) | PENDING | 	Hash TableString
 | 218 |	Group Anagrams	| [Link](	https://leetcode.com/problems/group-anagrams	) | PENDING | 	Hash TableString
 | 219 |	Longest Substring with At Most K Distinct Characters	| [Link](	https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters	) | PENDING | 	Hash TableStringSliding Window
-| 220 |	Vertical Order Traversal of a Binary Tree	| [Link](	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree	) | PENDING | 	Hash TableTree
+| 220 |	Vertical Order Traversal of a Binary Tree	| [Link](	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree	) | DONE | 	Hash TableTree
 | 221 |	Intersection of Two Arrays II	| [Link](	https://leetcode.com/problems/intersection-of-two-arrays-ii	) | PENDING | 	Hash TableTwo PointersBinary SearchSort
 | 222 |	Subarrays with K Different Integers	| [Link](	https://leetcode.com/problems/subarrays-with-k-different-integers	) | PENDING | 	Hash TableTwo PointersSliding Window
 | 223 |	Longest Substring with At Most Two Distinct Characters	| [Link](	https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters	) | PENDING | 	Hash TableTwo PointersStringSliding Window
