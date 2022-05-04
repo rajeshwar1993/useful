@@ -212,7 +212,7 @@ These questions are intended for those who are preparing for Google.
 | 206 |	Encode and Decode TinyURL	| [Link](	https://leetcode.com/problems/encode-and-decode-tinyurl	) | PENDING | 	Hash TableMath
 | 207 |	Count Primes	| [Link](	https://leetcode.com/problems/count-primes	) | PENDING | 	Hash TableMath
 | 208 |	Happy Number	| [Link](	https://leetcode.com/problems/happy-number	) | PENDING | 	Hash TableMath
-| 209 |	H-Index	| [Link](	https://leetcode.com/problems/h-index	) | PENDING | 	Hash TableSort
+| 209 |	H-Index	| [Link](	https://leetcode.com/problems/h-index	) | DONE | 	Hash TableSort
 | 210 |	Valid Anagram	| [Link](	https://leetcode.com/problems/valid-anagram	) | PENDING | 	Hash TableSort
 | 211 |	Design A Leaderboard	| [Link](	https://leetcode.com/problems/design-a-leaderboard	) | PENDING | 	Hash TableSortDesign
 | 212 |	Daily Temperatures	| [Link](	https://leetcode.com/problems/daily-temperatures	) | PENDING | 	Hash TableStack
