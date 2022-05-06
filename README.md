@@ -124,7 +124,7 @@ These questions are intended for those who are preparing for Google.
 | 118 |	Clone Graph	| [Link](	https://leetcode.com/problems/clone-graph	) | PENDING | 	Depth-first SearchBreadth-first SearchGraph
 | 119 |	Course Schedule II	| [Link](	https://leetcode.com/problems/course-schedule-ii	) | PENDING | 	Depth-first SearchBreadth-first SearchGraphTopological Sort
 | 120 |	Number of Islands	| [Link](	https://leetcode.com/problems/number-of-islands	) | PENDING | 	Depth-first SearchBreadth-first SearchUnion Find
-| 121 |	Number of Connected Components in an Undirected Graph	| [Link](	https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph	) | PENDING | 	Depth-first SearchBreadth-first SearchUnion FindGraph
+| 121 |	Number of Connected Components in an Undirected Graph	| [Link](	https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph	) | DONE | 	Depth-first SearchBreadth-first SearchUnion FindGraph
 | 122 |	Possible Bipartition	| [Link](	https://leetcode.com/problems/possible-bipartition	) | PENDING | 	Depth-first SearchGraph
 | 123 |	Reconstruct Itinerary	| [Link](	https://leetcode.com/problems/reconstruct-itinerary	) | PENDING | 	Depth-first SearchGraph
 | 124 |	Longest Increasing Path in a Matrix	| [Link](	https://leetcode.com/problems/longest-increasing-path-in-a-matrix	) | PENDING | 	Depth-first SearchTopological SortMemoization
