@@ -325,7 +325,7 @@ These questions are intended for those who are preparing for Google.
 | 319 |	Distribute Coins in Binary Tree	| [Link](	https://leetcode.com/problems/distribute-coins-in-binary-tree	) | PENDING | 	TreeDepth-first Search
 | 320 |	Balanced Binary Tree	| [Link](	https://leetcode.com/problems/balanced-binary-tree	) | PENDING | 	TreeDepth-first Search
 | 321 |	Recover Binary Search Tree	| [Link](	https://leetcode.com/problems/recover-binary-search-tree	) | PENDING | 	TreeDepth-first Search
-| 322 |	Maximum Difference Between Node and Ancestor	| [Link](	https://leetcode.com/problems/maximum-difference-between-node-and-ancestor	) | PENDING | 	TreeDepth-first Search
+| 322 |	Maximum Difference Between Node and Ancestor	| [Link](	https://leetcode.com/problems/maximum-difference-between-node-and-ancestor	) | DONE | 	TreeDepth-first Search
 | 323 |	Populating Next Right Pointers in Each Node II	| [Link](	https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii	) | PENDING | 	TreeDepth-first Search
 | 324 |	Path Sum II	| [Link](	https://leetcode.com/problems/path-sum-ii	) | PENDING | 	TreeDepth-first Search
 | 325 |	Flatten Binary Tree to Linked List	| [Link](	https://leetcode.com/problems/flatten-binary-tree-to-| Linked List	) | PENDING | 	TreeDepth-first Search
