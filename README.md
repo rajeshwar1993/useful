@@ -1,7 +1,6 @@
 ### GOOGLE DSA CHEATSHEET  
 
 These questions are intended for those who are preparing for Google. 
-
 | S No  | Question  |  Link | Status | Concept |
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
 | 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | PENDING | 	Array 
@@ -236,7 +235,7 @@ These questions are intended for those who are preparing for Google.
 | 230 |	Kth Largest Element in a Stream	| [Link](	https://leetcode.com/problems/kth-largest-element-in-a-stream	) | DONE | 	HeapDesign
 | 231 |	Split Array into Consecutive Subsequences	| [Link](	https://leetcode.com/problems/split-array-into-consecutive-subsequences	) | PENDING | 	HeapGreedy
 | 232 |	Employee Free Time	| [Link](	https://leetcode.com/problems/employee-free-time	) | PENDING | 	HeapGreedy
-| 233 |	Meeting Rooms II	| [Link](	https://leetcode.com/problems/meeting-rooms-ii	) | PENDING | 	HeapGreedySort
+| 233 |	Meeting Rooms II	| [Link](	https://leetcode.com/problems/meeting-rooms-ii	) | DONE | 	HeapGreedySort
 | 234 |	Sliding Window Maximum	| [Link](	https://leetcode.com/problems/sliding-window-maximum	) | PENDING | 	HeapSliding Window
 | 235 |	Meeting Scheduler	| [Link](	https://leetcode.com/problems/meeting-scheduler	) | PENDING | 	Line Sweep
 | 236 |	Merge Two Sorted Lists	| [Link](	https://leetcode.com/problems/merge-two-sorted-lists	) | PENDING |  Linked List
