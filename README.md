@@ -95,7 +95,7 @@ These questions are intended for those who are preparing for Google.
 | 89 |	Shortest Subarray with Sum at Least K	| [Link](	https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k	) | PENDING | 	Binary SearchQueue
 | 90 |	Random Pick with Weight	| [Link](	https://leetcode.com/problems/random-pick-with-weight	) | PENDING | 	Binary SearchRandom
 | 91 |	Count Complete Tree Nodes	| [Link](	https://leetcode.com/problems/count-complete-tree-nodes	) | PENDING | 	Binary SearchTree
-| 92 |	Kth Smallest Element in a BST	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-bst	) | PENDING | 	Binary SearchTree
+| 92 |	Kth Smallest Element in a BST	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-bst	) | DONE | 	Binary SearchTree
 | 93 |	Maximum Score Words Formed by Letters	| [Link](	https://leetcode.com/problems/maximum-score-words-formed-by-letters	) | PENDING | 	Bit Manipulation
 | 94 |	UTF-8 Validation	| [Link](	https://leetcode.com/problems/utf-8-validation	) | PENDING | 	Bit Manipulation
 | 95 |	Single Number II	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
