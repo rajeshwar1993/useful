@@ -36,7 +36,7 @@ These questions are intended for those who are preparing for Google.
 | 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | DONE | 	ArrayDivide and ConquerBit Manipulation
 | 32 |	Maximum Subarray	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
-| 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
+| 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | DONE | 	ArrayDynamic Programming
 | 35 |	Maximum Sum of 3 Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays	) | PENDING | 	ArrayDynamic Programming
 | 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | DONE | 	ArrayDynamic Programming
 | 37 |	Best Time to Buy and Sell Stock	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
