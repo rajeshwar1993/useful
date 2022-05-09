@@ -308,7 +308,7 @@ These questions are intended for those who are preparing for Google.
 | 303 |	Wildcard Matching	| [Link](	https://leetcode.com/problems/wildcard-matching	) | PENDING | 	StringDynamic ProgrammingBacktrackingGreedy
 | 304 |	Reorganize String	| [Link](	https://leetcode.com/problems/reorganize-string	) | PENDING | 	StringHeapGreedySort
 | 305 |	Word Abbreviation	| [Link](	https://leetcode.com/problems/word-abbreviation	) | PENDING | 	StringSort
-| 306 |	Valid Parentheses	| [Link](	https://leetcode.com/problems/valid-parentheses	) | PENDING | 	StringStack
+| 306 |	Valid Parentheses	| [Link](	https://leetcode.com/problems/valid-parentheses	) | DONE | 	StringStack
 | 307 |	Serialize and Deserialize N-ary Tree	| [Link](	https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree	) | PENDING | 	Tree
 | 308 |	Flip Equivalent Binary Trees	| [Link](	https://leetcode.com/problems/flip-equivalent-binary-trees	) | PENDING | 	Tree
 | 309 |	Find Duplicate Subtrees	| [Link](	https://leetcode.com/problems/find-duplicate-subtrees	) | PENDING | 	Tree
