@@ -10,11 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "chai": "4.2.0",
-    "mocha": "7.1.1",
+    "mocha": "10.2.0",
     "npm": "6.14.3"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   }
 }
